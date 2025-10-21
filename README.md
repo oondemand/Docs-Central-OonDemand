@@ -24,11 +24,8 @@ Baseada na **Esteira de Processos** (mini-monolítica e micro-serviços), a OonD
 Metodologia em **6 fases** (da Ideia ao Valor), conforme o Manual das Squads OonDemand.
 
 ## 📄 Documentos Relacionados
-- `00 Central OonDemand — Núcleo de Governança Digital e Transparência Nacional.pdf`
-- `Whitepaper — Esteira de Processos (Mini-Monolítica e Micro-Serviços)`
-- `Manual das Squads OonDemand — Da Ideia ao Valor`
-- `Manual de Precificação — Base de Conhecimento`
-- `O Problema que Resolvemos`
+- `Central OonDemand — Núcleo de Governança Digital e Transparência Nacional`
+- `Whitepaper Técnico OonDemand`
 - `Transformando o Caos em Valor`
 
 ## 🔒 Licença
